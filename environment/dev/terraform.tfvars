@@ -2,6 +2,8 @@ project_name = "linux-tips-ecs-cluster"
 
 region = "us-east-1"
 
+environment  = "dev"
+
 #### SSM VPC Parameters ####
 
 ssm_vpc_id = "/linuxtips-vpc/vpc/vpc_id"
